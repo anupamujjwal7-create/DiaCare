@@ -26,10 +26,3 @@ DiaCare is a Streamlit-based web application designed for self-management suppor
 
 ---
 
-## 📂 Project Structure
-
-```text
-├── app.py                 # Main Streamlit application
-├── client_secret.json     # Google OAuth credentials (User-provided)
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
